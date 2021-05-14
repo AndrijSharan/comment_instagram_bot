@@ -3,4 +3,4 @@
 
 Для роботи потрібні selenium, Firefox, geckodriver та python3.
 
-Посилання на пост та інші дані вказуються в файлі comment_instgram_bot.py
+Посилання на пост та інші дані вказуються в файлі comment_instagram_bot.py
